@@ -4,7 +4,7 @@ const data = {
       name: 'Floral Print Empire Dress',
       slug: 'floral-print-empire-dress',
       category: 'Dresses',
-      image: '/images/Dress1.jpg',
+      image: '/images/p1.jpg', //360px * 480px
       price: 2399,
       countInStock: 100,
       brand: 'Brand 1',
@@ -17,7 +17,7 @@ const data = {
       name: 'Purple Crepe Midi Dress',
       slug: 'purple-crepe-midi-dress',
       category: 'Dresses',
-      image: '/images/Dress2.jpg',
+      image: '/images/p2.jpg',
       price: 2799,
       countInStock: 75,
       brand: 'Brand 2',
@@ -27,10 +27,10 @@ const data = {
     },
 
     {
-      name: 'Black NEO-Cool Cotton Sleeveless Lounge T-shirt',
-      slug: 'black-neo-cool-cotton-sleeveless-lounge-t-shirt',
+      name: 'Black Tank Top',
+      slug: 'black-tank-top',
       category: 'Dresses',
-      image: '/images/TankTop.jpg',
+      image: '/images/p3.jpg',
       price: 799,
       countInStock: 100,
       brand: 'Brand 3',
